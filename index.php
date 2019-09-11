@@ -1,3 +1,3 @@
 <?php
-echo "smbd hear me!3";
+echo "smbd hear me!1";
 ?>
