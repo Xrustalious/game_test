@@ -1,3 +1,4 @@
 <?php
-echo "smbd hear me!07";
+echo phpinfo();
+//echo '123';
 ?>
